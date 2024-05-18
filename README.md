@@ -1,2 +1,4 @@
 # cosmic-theme
-Nothing yet, people.
+<shell>
+  Still working on it...
+</shell>
