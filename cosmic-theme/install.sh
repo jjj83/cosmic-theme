@@ -14,7 +14,7 @@ echo "configuring zsh...\n"
 cp zshrc ~/.zshrc
 cp zsh-themes/cosmic.zsh-theme ~/.oh-my-zsh/custom/themes/
 echo "done\n"
+echo "installation finished\n"
+cd ..
 cd ..
 rm -rf cosmic-theme
-echo "installation finished\n"
-
