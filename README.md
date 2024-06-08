@@ -1,5 +1,5 @@
 # cosmic-theme
-cosmic-theme is a set of themes for awesomewm, zsh, and rofi, along with a picom config.
+cosmic-theme is a theme for awesomewm, zsh, and rofi, along with a picom config.
 # Installation
 Prerequisites:
 ```
