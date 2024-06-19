@@ -1,5 +1,7 @@
 # cosmic-theme
 cosmic-theme is a theme for awesomewm, zsh, and rofi, along with a picom config.
+
+It is based on dremora from awesome-copycats, and macos-dark by dj95.
 # Installation
 Prerequisites:
 ```
